@@ -20,6 +20,8 @@ function App(){
     <div className="App">
       <Nav/>
       <h1>Hi <span>Hello</span></h1> 
+      <h1>Hi Dinesh<span>Hello</span></h1> 
+
     </div>
 
   )
